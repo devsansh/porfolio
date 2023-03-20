@@ -22,13 +22,6 @@
     --dark: var(--text);
 }
 
-.card{
-    margin-left: auto;
-    margin-right: auto;
-    padding: 50px;
-    color: lightgray;
-}
-
 body, html {
     margin: 0;
     padding: 10px;
